@@ -1,0 +1,3 @@
+-This is a basic Front-end development quiz.
+-Tech stack used: HTML, CSS, JavaScript
+-It displays the score out of 5.
